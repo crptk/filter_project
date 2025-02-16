@@ -1,7 +1,3 @@
-Based on the extracted files and your description, here’s a **polished README** for your CS50 **Image Filtering Program**:
-
----
-
 # 🖼️ Image Filtering Program  
 
 ## 📌 Overview  
@@ -36,7 +32,3 @@ Applying a **blur effect** to `yard.bmp` and saving it as `blurred.bmp`:
 - Input images **must be 24-bit uncompressed BMP files**.  
 - The program reads an input BMP file, processes it, and writes the **filtered image** to a new file.  
 - The **edge detection filter** uses the **Sobel operator** to detect image gradients.  
-
----
-
-This README provides **clear instructions** while keeping it **concise and professional**. Let me know if you need any refinements! 🚀
